@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:title>Comprehensive Dataset on East Asian Economic Indicators</dc:title>
+    <dc:creator>John Doe</dc:creator>
+    <dc:creator>Jane Smith</dc:creator>
+    <dc:subject>Economics</dc:subject>
+    <dc:subject>East Asia</dc:subject>
+    <dc:subject>Economic Indicators</dc:subject>
+    <dc:description>This dataset compiles key economic indicators for East Asian countries from 2000 to 2020, aimed at supporting regional economic analyses.</dc:description>
+    <dc:publisher>John Doe Research Group</dc:publisher>
+    <dc:contributor>University Data Science Lab</dc:contributor>
+    <dc:date>2023</dc:date>
+    <dc:type>Data set</dc:type>
+    <dc:format>CSV</dc:format>
+    <dc:identifier>https://doi.org/10.xxx/yyyyy</dc:identifier>
+    <dc:source>National Economic Surveys and Reports</dc:source>
+    <dc:language>en</dc:language>
+    <dc:relation>Related publication: Analysis of East Asian Economic Growth</dc:relation>
+    <dc:coverage>East Asia, 2000-2020</dc:coverage>
+    <dc:rights>CC BY 4.0</dc:rights>
+</metadata>
