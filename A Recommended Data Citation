@@ -1,13 +1,14 @@
-In preparing my dataset for public use, I recognized the importance of providing clear guidance on how to cite this resource. Citing datasets correctly is crucial not only for giving proper credit to data creators but also for enhancing the reproducibility of research findings and facilitating academic dialogue. To this end, I have formulated a recommended citation format for my dataset, ensuring it includes all necessary information while adhering to widely accepted academic standards.
-The citation for my dataset is structured as follows:
-Last Name, First Initial., & Last Name, First Initial. (Year of Publication). Title of Dataset, Version [Data set]. GitHub Repository, Repository Owner or Organization. URL or DOI
-Here’s an example based on my dataset:
-Doe, J., & Smith, A. (2023). Comprehensive Dataset on East Asian Economic Indicators, Version 2.1 [Data set]. GitHub Repository, John Doe Research Group. https://doi.org/10.xx/yyyy/zzzz
+## A Recommended Data Citation
+
+Recognizing the importance of proper dataset citation for credit, reproducibility, and academic dialogue, I recommend the following format for citing this dataset. This format is designed to include all necessary information while adhering to widely accepted academic standards.
+
+Pelzer, T. (2024). Dataset for "Enter the Pragmatic Engineer: Ling Hongxun at Jiaotong University, 1920–1927", Version 1.0 [Data set]. GitHub Repository. [URL to the dataset]
+
 This citation format includes:
-- The names of the authors (myself and any collaborators), ensuring those who contributed to the dataset are properly credited.
-- The publication year, which helps users reference the dataset within the correct temporal context.
-- A descriptive title along with the version number, allowing users to identify and differentiate this dataset from others and to reference specific versions of the dataset.
-- The type of resource, clearly marked as a [Data set], to distinguish it from other types of scholarly outputs.
-- The hosting platform (GitHub Repository) and the name of the owner or responsible organization, providing users with information on where the dataset can be found.
-- A persistent URL or DOI, ensuring users have a stable link to access the dataset directly.
-Providing this recommended citation format is my way of promoting a culture of recognition and respect within the research community. It ensures that users of my dataset have the necessary information to cite it properly, fostering transparency and accountability in research practices. I believe that by making this information readily available, I am contributing to the broader academic ecosystem, encouraging the ethical use of shared resources, and supporting the principles of open science.
+- The name of the author(s), ensuring credit is given to those who contributed to the dataset.
+- The publication year, situating the dataset within its correct temporal context.
+- The descriptive title and version number, aiding in the identification and differentiation of this dataset.
+- The resource type, marked as a [Data set], to distinguish it from other scholarly outputs.
+- The hosting platform (GitHub Repository) and the location (URL) where the dataset can be accessed, providing a stable link for direct access.
+
+By providing this recommended citation, I aim to promote a culture of recognition and respect within the research community, ensuring users have the necessary information for proper citation. This effort supports transparency, accountability, and the principles of open science.
