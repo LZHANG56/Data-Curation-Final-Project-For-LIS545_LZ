@@ -1,0 +1,5 @@
+nanyang1926_buildings.geojson (application/geo+json) 16999 bytes.
+nanyang1926_campusroads.geojson (application/geo+json) 14538 bytes.
+nanyang1926_rivers.geojson (application/geo+json) 5750 bytes.
+nanyang1926_streets.geojson (application/geo+json) 1131 bytes.
+pelzer_pragmaticengineer_replication.R (type/x-r-syntax) 11452 bytes.
