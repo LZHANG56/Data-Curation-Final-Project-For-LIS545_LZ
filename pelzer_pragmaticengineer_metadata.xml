@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <dc:title>Dataset for "Enter the Pragmatic Engineer: Ling Hongxun at Jiaotong University, 1920–1927"</dc:title>
+    <dc:creator>Thorben Pelzer</dc:creator>
+    <dc:subject>Higher Education, Engineering Education, China, History of Science</dc:subject>
+    <dc:description>This dataset accompanies the article "Enter the Pragmatic Engineer: Ling Hongxun at Jiaotong University, 1920–1927" by Thorben Pelzer published in History of Education. It includes replication data and supplemental geospatial data used in the research.</dc:description>
+    <dc:publisher>History of Education</dc:publisher>
+    <dc:contributor>Luming Zhou</dc:contributor>
+    <dc:date>2024</dc:date>
+    <dc:type>Dataset</dc:type>
+    <dc:format>application/r; application/geo+json; text/plain</dc:format>
+    <dc:identifier>https://doi.org/10.1080/0046760X.2023.2220287</dc:identifier>
+    <dc:source>Chinese Engineers Relational Database (CERD)</dc:source>
+    <dc:language>en</dc:language>
+    <dc:relation>Replication data and geospatial data for Nanyang University campus visualization</dc:relation>
+    <dc:coverage>Shanghai, China, 1926</dc:coverage>
+    <dc:rights>Creative Commons Attribution 4.0 International (CC BY 4.0)</dc:rights>
+</metadata>
