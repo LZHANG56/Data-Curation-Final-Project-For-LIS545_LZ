@@ -1,7 +1,7 @@
 # Data Curation Final Project_LZ
 
 ## Introduction
-This repository is developed for my final assignment in the LIS 545 Data Curation course, showcasing a practical application of data curation principles. The repository is based on the dataset used in Thorben Pelzer's research article "Enter the Pragmatic Engineer: Ling Hongxun at Jiaotong University, 1920–1927," published in History of Education. It includes replication data and supplemental geospatial data that were essential to the research.
+This repository is developed for my final assignment in the LIS 545 Data Curation course, showcasing a practical application of data curation principles. The repository is based on the dataset from GlobeData and used in Thorben Pelzer's research article "Enter the Pragmatic Engineer: Ling Hongxun at Jiaotong University, 1920–1927," published in History of Education. It includes replication data and supplemental geospatial data that were essential to the research.
 
 ## Dataset Contents
 - `pelzer_pragmaticengineer_replication.R`: This R script file contains the code to replicate the statistical analyses from Pelzer’s study.
